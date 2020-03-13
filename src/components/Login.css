@@ -1,0 +1,13 @@
+.password-section, .username-section{
+    padding: 1rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 100%;
+    background-color: rgba(86, 99, 124, 0.384);
+    border-radius: 5px;
+    box-shadow: -5px 3px 35px -4px rgba(255, 255, 255, 0.63);
+}
